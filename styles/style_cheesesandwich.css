@@ -1,0 +1,24 @@
+* {
+    font-family:Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: lightsalmon;
+    font-size: 48px;
+    text-align: center;
+}
+
+.cover-photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2 {
+    background-color: lightcyan;
+}
+
+h2, p {
+    text-align: center;
+}
